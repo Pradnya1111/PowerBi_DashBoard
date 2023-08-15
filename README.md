@@ -2,9 +2,7 @@
 Created Dashboard using Power BI with Maven Market dataset.<br>
 Maven Market Dashboard:
 
-![image](https://github.com/Pradnya1111/PowerBi_DashBoard/assets/87003134/cd46bdce-f2c2-48c1-af09-76be4c4d1c64)
-
-
+![image](https://github.com/Pradnya1111/PowerBi_DashBoard/assets/87003134/abd684e4-e670-4418-8486-1b0242635e40)
 
 Maven Market Has the Following Dataset:
 1) Customers
