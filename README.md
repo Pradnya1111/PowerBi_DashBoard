@@ -2,7 +2,8 @@
 Maven Market PowerBi Dashboard <br>
 Created Dashboard using Power BI with Maven Market dataset.<br>
 Maven Market Dashboard:
-![image](https://github.com/Pradnya1111/PowerBi_DashBoard/assets/87003134/ff87ab9b-4bc9-4fe1-9281-22daca829154.png)
+![image](https://github.com/Pradnya1111/PowerBi_DashBoard/assets/87003134/cd46bdce-f2c2-48c1-af09-76be4c4d1c64)
+
 
 
 Maven Market Has the Following Dataset:
