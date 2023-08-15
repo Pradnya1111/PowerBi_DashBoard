@@ -2,7 +2,7 @@
 Maven Market PowerBi Dashboard <br>
 Created Dashboard using Power BI with Maven Market dataset.<br>
 Maven Market Dashboard:
-![image](https://github.com/Pradnya1111/PowerBi_DashBoard/assets/87003134/ff87ab9b-4bc9-4fe1-9281-22daca829154)
+![image](https://github.com/Pradnya1111/PowerBi_DashBoard/assets/87003134/ff87ab9b-4bc9-4fe1-9281-22daca829154.png)
 
 
 Maven Market Has the Following Dataset:
@@ -20,17 +20,17 @@ In Stores Table we made sure that headers have been promoted. Added calculated c
 In Calendar table added following columns start of week, start of month, name of day, quater of year, name of month, year.
 For Transactions Data, we added new folder on desktop  containing both files and in powerbi we combined the files and removed the source column.<br>
 
-![image](https://github.com/Pradnya1111/PowerBi_DashBoard/assets/87003134/e3b2bf93-4d02-4472-9f00-dbd31af17488)<br>
+![image](https://github.com/Pradnya1111/PowerBi_DashBoard/assets/87003134/e3b2bf93-4d02-4472-9f00-dbd31af17488.png)<br>
 
 # Building Relationships:
  Created one-to-many relationship between Data(Fact) and Dimentions(Lookup) tables, Data going through only "Downstream"
  
-![image](https://github.com/Pradnya1111/PowerBi_DashBoard/assets/87003134/edb9aed8-6c27-421d-b09a-7b187bd188ea)<br>
+![image](https://github.com/Pradnya1111/PowerBi_DashBoard/assets/87003134/edb9aed8-6c27-421d-b09a-7b187bd188ea.png)<br>
 
 # DAX Measures:
 In Data view, we have added the following calculated columns:<br>
 
-![image](https://github.com/Pradnya1111/PowerBi_DashBoard/assets/87003134/7ec6e0d2-611f-45f6-b114-041f1d7be6f1)<br>
+![image](https://github.com/Pradnya1111/PowerBi_DashBoard/assets/87003134/7ec6e0d2-611f-45f6-b114-041f1d7be6f1.png)<br>
 
 # Visualizing Data:
 Inserted the Matrix visual to show Total Transactions, Total Profit, Total Margin and Return Rate by Product Brand(Top N filter to show top 30 product brands by total transcations sorting  descending). Added KPI cards to show Total Transactions with start of month as trend axis and last month transaction as target goal, created two more copies for Total Profit and Total Returns(low is good).<br>
