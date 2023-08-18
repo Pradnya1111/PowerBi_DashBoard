@@ -22,7 +22,7 @@ For transaction Data, we added a new folder on desktop  containing both files an
 ![image](https://github.com/Pradnya1111/PowerBi_DashBoard/assets/87003134/2e46a052-42fd-4bf3-a867-e7c8ed1561b0)<br>
 
 # Building Relationships:
- Created one-to-many relationship between Data(Fact) and Dimentions(Lookup) tables, Data going through only "Downstream"
+ Created one-to-many relationship between Data(Fact) and Dimensions(Lookup) tables, Data going through only "Downstream"
  
 ![image](https://github.com/Pradnya1111/PowerBi_DashBoard/assets/87003134/f7a2769b-1837-4f74-a9bc-7e91b3157f1d)<br>
 
